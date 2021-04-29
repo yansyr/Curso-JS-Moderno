@@ -65,5 +65,5 @@ function mostrarError(mensaje) {
         formulario.appendChild(mensajeError)
     }
 
-    
+    console.log(mensajeError)
 }
